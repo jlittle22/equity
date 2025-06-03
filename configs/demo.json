@@ -1,10 +1,10 @@
 {
-  "btn": ["AhKh"],
-  "sb": [],
+  "btn": ["Ah", "Ks"],
+  "sb": ["Qs", "Kc"],
   "bb": [],
   "utg": [],
   "mp": [],
   "co": [],
-  "board": [],
+  "board": ["As", "Ac", "Ad", "2s", "5c"],
   "dead": []
 }
